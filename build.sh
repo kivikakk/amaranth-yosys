@@ -71,6 +71,7 @@ kernel/calc.o \
 kernel/mem.o \
 kernel/ff.o \
 kernel/fmt.o \
+kernel/scopeinfo.o \
 kernel/yosys.o \
 libs/bigint/BigInteger.o \
 libs/bigint/BigUnsigned.o \
